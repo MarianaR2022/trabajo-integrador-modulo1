@@ -1,0 +1,26 @@
+[
+  {
+    "title": "primera",
+    "author": "anonimo",
+    "genre": "prueba",
+    "year": "4",
+    "cost": "4",
+    "price": "4"
+  },
+  {
+    "title": "cuento",
+    "author": "perdido",
+    "genre": "infantil",
+    "year": "1",
+    "cost": "1",
+    "price": "1"
+  },
+  {
+    "title": "fabula",
+    "author": "desconocido",
+    "genre": "fantasia",
+    "year": "2000",
+    "cost": "3000",
+    "price": "3500"
+  }
+]
