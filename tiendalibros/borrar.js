@@ -1,6 +1,7 @@
 const leer = require('./leer.js')
 const cargaJson = require('./cargaJson.js')
 
+// El libro a eliminar debe ser buscado por ID
 module.exports = (title) => {
   let libros  = leer()
   let libroAeliminar
